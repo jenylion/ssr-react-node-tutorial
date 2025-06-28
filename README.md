@@ -7,6 +7,11 @@ Want to learn **SSR with React the *right*, modern way** using **Node.js + Vite 
 
 ---
 
+## Blog Link 
+[https://www.ahmad-osman.com/en/blogs/ssr-react-node/](https://www.ahmad-osman.com/en/blogs/ssr-react-node/)
+
+---
+
 ## 🚀 What You'll Get
 
 ✅ **Server-Side Rendering (SSR)** with React using Vite  
